@@ -1,6 +1,6 @@
 # ReactiveAudioRecord
 
-[![Release](https://img.shields.io/badge/jCenter-1.0.2-brightgreen.svg)](https://bintray.com/sbrukhanda/maven/FragmentViewPager)
+[![JitPack](https://jitpack.io/v/kibotu/ReactiveAudioRecord.svg)](https://jitpack.io/#kibotu/ReactiveAudioRecord)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20Version%202.0-blue.svg)](https://github.com/sbrukhanda/fragmentviewpager/blob/master/LICENSE.txt)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ReactiveAudioRecord-green.svg?style=flat)](https://android-arsenal.com/details/1/2084)
 
