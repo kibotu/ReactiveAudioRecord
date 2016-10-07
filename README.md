@@ -44,10 +44,21 @@ Observable.create(recorder)
 And that's it! Check out the sample code for a working example!
 
 ##Download 
-Repository available on jCenter
+Repository available on JitPack ()
 
-```Gradle
-compile 'com.minimize.library:reactiveaudiorecord:1.0.2'
+```build.gradle
+allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
+```
+
+```app/build.gradle
+dependencies {
+	        compile 'com.github.kibotu:ReactiveAudioRecord:1.0.32'
+	}
 ```
 
 ##License 
